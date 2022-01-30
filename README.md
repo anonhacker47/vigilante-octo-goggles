@@ -5,7 +5,8 @@ This is a python script written in python to for auto converting .cbr files to .
 
 ## How to Use
 
-```pip install -r requirements.txt
+```
+   pip install -r requirements.txt
    #edit main.py and add your comics head folder path instead of <Head Directory goes here>.
    run main.py
 ```
