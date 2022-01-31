@@ -5,12 +5,12 @@ This is a python script written in python to for auto converting .cbr files to .
 
 ## Prerequsites
 
-######Linux:
+###### Linux:
 Install unrar using the below command.
 ```
    sudo apt install unrar
 ```
-######Windows:
+###### Windows:
 install 7zip from [here](https://www.7-zip.org/download.html)
 
 ## How to Use
