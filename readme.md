@@ -3,6 +3,14 @@ A python script to convert cbr files to cbz.
 
 This is a python script written in python to for auto converting .cbr files to .cbz
 
+## Prerequsites
+
+Linux - Install unrar using the below command.
+```
+   sudo apt install unrar
+```
+Windows - install 7zip from [here](https://www.7-zip.org/download.html)
+
 ## How to Use
 
 ```
@@ -12,6 +20,7 @@ This is a python script written in python to for auto converting .cbr files to .
 ```
 
 ## Note: Just add the top most path to the main.py since the script will go inside each subdirectory and change all cbr files to cbz files.
+
 
 ## Troubleshooting
 
